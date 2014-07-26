@@ -18,3 +18,5 @@ Depends: ${misc:Depends}
 Description: Deactivates IPv6 using /etc/sysctl.d/
  There are no IPv6 Anonymity Distribution Gateways featuring an IPv6 firewall
  yet. Therefore deactivating it to prevent leaks.
+ .
+ For better security.
