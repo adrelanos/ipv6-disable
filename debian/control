@@ -6,7 +6,7 @@ Source: ipv6-disable
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 8), faketime, git
+Build-Depends: debhelper (>= 8), faketime
 Homepage: https://github.com/Whonix/ipv6-disable
 Vcs-Browser: https://github.com/Whonix/ipv6-disable
 Vcs-Git: https://github.com/Whonix/ipv6-disable.git
