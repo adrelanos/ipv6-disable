@@ -1,3 +1,9 @@
+ipv6-disable (3:1.6-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Mon, 27 Aug 2018 16:42:07 +0000
+
 ipv6-disable (3:1.5-1) unstable; urgency=medium
 
   * New upstream version (local package).
